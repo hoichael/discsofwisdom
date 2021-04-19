@@ -5,7 +5,7 @@ export default function handleResponse(response, which) {
         case "advice":
             return JSON.parse(response).slip.advice;
 
-        case "number":
+        case "joke":
             return response;
 
         case "norris":

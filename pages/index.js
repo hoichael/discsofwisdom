@@ -17,7 +17,7 @@ export default function Main() {
       </Head>
 
       <Disc blobInfo={info["advice"]} current={active} setCurrent={setActive}/>
-      <Disc blobInfo={info["number"]} current={active} setCurrent={setActive}/>
+      <Disc blobInfo={info["joke"]} current={active} setCurrent={setActive}/>
       <Disc blobInfo={info["norris"]} current={active} setCurrent={setActive}/>
 
     </div>

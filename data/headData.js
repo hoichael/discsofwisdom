@@ -11,8 +11,8 @@ const data = {
         title: "Advice!",
         icon: "/green.ico",
     },
-    number: {
-        title: "Numbers!",
+    joke: {
+        title: "Jokes!",
         icon: "/blue.ico",
     }
 }

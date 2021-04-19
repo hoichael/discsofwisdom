@@ -4,10 +4,10 @@ const info = {
         color: "green",
         api: "https://api.adviceslip.com/advice"
     },
-    number: {
-        id: "number",
+    joke: {
+        id: "joke",
         color: "blue",
-        api: "http://numbersapi.com/random/"
+        api: "https://v2.jokeapi.dev/joke/Any?format=txt&type=single"
     },
     norris: {
         id: "norris",
